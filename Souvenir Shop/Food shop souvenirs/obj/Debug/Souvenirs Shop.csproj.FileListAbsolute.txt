@@ -1,0 +1,36 @@
+C:\Users\ralar\Desktop\test1\mypart\Souvenir Shop\Food shop souvenirs\bin\Debug\Food shop souvenirs.exe.config
+C:\Users\ralar\Desktop\test1\mypart\Souvenir Shop\Food shop souvenirs\bin\Debug\Food shop souvenirs.exe
+C:\Users\ralar\Desktop\test1\mypart\Souvenir Shop\Food shop souvenirs\bin\Debug\Food shop souvenirs.pdb
+C:\Users\ralar\Desktop\test1\mypart\Souvenir Shop\Food shop souvenirs\bin\Debug\MySql.Data.dll
+C:\Users\ralar\Desktop\test1\mypart\Souvenir Shop\Food shop souvenirs\bin\Debug\Phidget22.NET.dll
+C:\Users\ralar\Desktop\test1\mypart\Souvenir Shop\Food shop souvenirs\bin\Debug\Google.Protobuf.dll
+C:\Users\ralar\Desktop\test1\mypart\Souvenir Shop\Food shop souvenirs\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ralar\Desktop\test1\mypart\Souvenir Shop\Food shop souvenirs\bin\Debug\Renci.SshNet.dll
+C:\Users\ralar\Desktop\test1\mypart\Souvenir Shop\Food shop souvenirs\bin\Debug\Phidget22.NET.pdb
+C:\Users\ralar\Desktop\test1\mypart\Souvenir Shop\Food shop souvenirs\bin\Debug\Phidget22.NET.xml
+C:\Users\ralar\Desktop\test1\mypart\Souvenir Shop\Food shop souvenirs\obj\Debug\Souvenirs Shop.csprojAssemblyReference.cache
+C:\Users\ralar\Desktop\test1\mypart\Souvenir Shop\Food shop souvenirs\obj\Debug\Food_shop_souvenirs.Form1.resources
+C:\Users\ralar\Desktop\test1\mypart\Souvenir Shop\Food shop souvenirs\obj\Debug\Food_shop_souvenirs.Properties.Resources.resources
+C:\Users\ralar\Desktop\test1\mypart\Souvenir Shop\Food shop souvenirs\obj\Debug\Souvenirs Shop.csproj.GenerateResource.cache
+C:\Users\ralar\Desktop\test1\mypart\Souvenir Shop\Food shop souvenirs\obj\Debug\Souvenirs Shop.csproj.CoreCompileInputs.cache
+C:\Users\ralar\Desktop\test1\mypart\Souvenir Shop\Food shop souvenirs\obj\Debug\Souvenirs Shop.csproj.CopyComplete
+C:\Users\ralar\Desktop\test1\mypart\Souvenir Shop\Food shop souvenirs\obj\Debug\Food shop souvenirs.exe
+C:\Users\ralar\Desktop\test1\mypart\Souvenir Shop\Food shop souvenirs\obj\Debug\Food shop souvenirs.pdb
+C:\Users\ralar\Desktop\FINAL TEST\Souvenir Shop\Food shop souvenirs\bin\Debug\Food shop souvenirs.exe.config
+C:\Users\ralar\Desktop\FINAL TEST\Souvenir Shop\Food shop souvenirs\bin\Debug\Food shop souvenirs.exe
+C:\Users\ralar\Desktop\FINAL TEST\Souvenir Shop\Food shop souvenirs\bin\Debug\Food shop souvenirs.pdb
+C:\Users\ralar\Desktop\FINAL TEST\Souvenir Shop\Food shop souvenirs\bin\Debug\MySql.Data.dll
+C:\Users\ralar\Desktop\FINAL TEST\Souvenir Shop\Food shop souvenirs\bin\Debug\Phidget22.NET.dll
+C:\Users\ralar\Desktop\FINAL TEST\Souvenir Shop\Food shop souvenirs\bin\Debug\Google.Protobuf.dll
+C:\Users\ralar\Desktop\FINAL TEST\Souvenir Shop\Food shop souvenirs\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ralar\Desktop\FINAL TEST\Souvenir Shop\Food shop souvenirs\bin\Debug\Renci.SshNet.dll
+C:\Users\ralar\Desktop\FINAL TEST\Souvenir Shop\Food shop souvenirs\bin\Debug\Phidget22.NET.pdb
+C:\Users\ralar\Desktop\FINAL TEST\Souvenir Shop\Food shop souvenirs\bin\Debug\Phidget22.NET.xml
+C:\Users\ralar\Desktop\FINAL TEST\Souvenir Shop\Food shop souvenirs\obj\Debug\Souvenirs Shop.csprojAssemblyReference.cache
+C:\Users\ralar\Desktop\FINAL TEST\Souvenir Shop\Food shop souvenirs\obj\Debug\Food_shop_souvenirs.Form1.resources
+C:\Users\ralar\Desktop\FINAL TEST\Souvenir Shop\Food shop souvenirs\obj\Debug\Food_shop_souvenirs.Properties.Resources.resources
+C:\Users\ralar\Desktop\FINAL TEST\Souvenir Shop\Food shop souvenirs\obj\Debug\Souvenirs Shop.csproj.GenerateResource.cache
+C:\Users\ralar\Desktop\FINAL TEST\Souvenir Shop\Food shop souvenirs\obj\Debug\Souvenirs Shop.csproj.CoreCompileInputs.cache
+C:\Users\ralar\Desktop\FINAL TEST\Souvenir Shop\Food shop souvenirs\obj\Debug\Souvenirs Shop.csproj.CopyComplete
+C:\Users\ralar\Desktop\FINAL TEST\Souvenir Shop\Food shop souvenirs\obj\Debug\Food shop souvenirs.exe
+C:\Users\ralar\Desktop\FINAL TEST\Souvenir Shop\Food shop souvenirs\obj\Debug\Food shop souvenirs.pdb

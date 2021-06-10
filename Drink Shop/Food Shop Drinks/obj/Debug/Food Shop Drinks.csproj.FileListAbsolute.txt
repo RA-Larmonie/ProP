@@ -1,0 +1,39 @@
+C:\Users\Bilal Aktas\Desktop\Fontys Subjects\Semester2\PROP\Applications\Food Shop Drinks\Food Shop Drinks\bin\Debug\Food Shop Drinks.exe.config
+C:\Users\Bilal Aktas\Desktop\Fontys Subjects\Semester2\PROP\Applications\Food Shop Drinks\Food Shop Drinks\bin\Debug\Food Shop Drinks.exe
+C:\Users\Bilal Aktas\Desktop\Fontys Subjects\Semester2\PROP\Applications\Food Shop Drinks\Food Shop Drinks\bin\Debug\Food Shop Drinks.pdb
+C:\Users\Bilal Aktas\Desktop\Fontys Subjects\Semester2\PROP\Applications\Food Shop Drinks\Food Shop Drinks\obj\Debug\Food Shop Drinks.csprojAssemblyReference.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Subjects\Semester2\PROP\Applications\Food Shop Drinks\Food Shop Drinks\obj\Debug\Food_Shop_Drinks.Form1.resources
+C:\Users\Bilal Aktas\Desktop\Fontys Subjects\Semester2\PROP\Applications\Food Shop Drinks\Food Shop Drinks\obj\Debug\Food_Shop_Drinks.Properties.Resources.resources
+C:\Users\Bilal Aktas\Desktop\Fontys Subjects\Semester2\PROP\Applications\Food Shop Drinks\Food Shop Drinks\obj\Debug\Food Shop Drinks.csproj.GenerateResource.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Subjects\Semester2\PROP\Applications\Food Shop Drinks\Food Shop Drinks\obj\Debug\Food Shop Drinks.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Aktas\Desktop\Fontys Subjects\Semester2\PROP\Applications\Food Shop Drinks\Food Shop Drinks\obj\Debug\Food Shop Drinks.exe
+C:\Users\Bilal Aktas\Desktop\Fontys Subjects\Semester2\PROP\Applications\Food Shop Drinks\Food Shop Drinks\obj\Debug\Food Shop Drinks.pdb
+C:\Users\Picus\Desktop\Fontys\ProP-PoPd\Food Shop Drinks\Food Shop Drinks\bin\Debug\Food Shop Drinks.exe.config
+C:\Users\Picus\Desktop\Fontys\ProP-PoPd\Food Shop Drinks\Food Shop Drinks\bin\Debug\Food Shop Drinks.exe
+C:\Users\Picus\Desktop\Fontys\ProP-PoPd\Food Shop Drinks\Food Shop Drinks\bin\Debug\Food Shop Drinks.pdb
+C:\Users\Picus\Desktop\Fontys\ProP-PoPd\Food Shop Drinks\Food Shop Drinks\obj\Debug\Food Shop Drinks.csprojResolveAssemblyReference.cache
+C:\Users\Picus\Desktop\Fontys\ProP-PoPd\Food Shop Drinks\Food Shop Drinks\obj\Debug\Food_Shop_Drinks.Form1.resources
+C:\Users\Picus\Desktop\Fontys\ProP-PoPd\Food Shop Drinks\Food Shop Drinks\obj\Debug\Food_Shop_Drinks.Properties.Resources.resources
+C:\Users\Picus\Desktop\Fontys\ProP-PoPd\Food Shop Drinks\Food Shop Drinks\obj\Debug\Food Shop Drinks.csproj.GenerateResource.Cache
+C:\Users\Picus\Desktop\Fontys\ProP-PoPd\Food Shop Drinks\Food Shop Drinks\obj\Debug\Food Shop Drinks.exe
+C:\Users\Picus\Desktop\Fontys\ProP-PoPd\Food Shop Drinks\Food Shop Drinks\obj\Debug\Food Shop Drinks.pdb
+C:\Users\Bilal Aktas\Desktop\Food Shop Drinks\Food Shop Drinks\bin\Debug\Food Shop Drinks.exe.config
+C:\Users\Bilal Aktas\Desktop\Food Shop Drinks\Food Shop Drinks\bin\Debug\Food Shop Drinks.exe
+C:\Users\Bilal Aktas\Desktop\Food Shop Drinks\Food Shop Drinks\bin\Debug\Food Shop Drinks.pdb
+C:\Users\Bilal Aktas\Desktop\Food Shop Drinks\Food Shop Drinks\obj\Debug\Food Shop Drinks.csprojAssemblyReference.cache
+C:\Users\Bilal Aktas\Desktop\Food Shop Drinks\Food Shop Drinks\obj\Debug\Food_Shop_Drinks.Form1.resources
+C:\Users\Bilal Aktas\Desktop\Food Shop Drinks\Food Shop Drinks\obj\Debug\Food_Shop_Drinks.Properties.Resources.resources
+C:\Users\Bilal Aktas\Desktop\Food Shop Drinks\Food Shop Drinks\obj\Debug\Food Shop Drinks.csproj.GenerateResource.cache
+C:\Users\Bilal Aktas\Desktop\Food Shop Drinks\Food Shop Drinks\obj\Debug\Food Shop Drinks.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Aktas\Desktop\Food Shop Drinks\Food Shop Drinks\obj\Debug\Food Shop Drinks.exe
+C:\Users\Bilal Aktas\Desktop\Food Shop Drinks\Food Shop Drinks\obj\Debug\Food Shop Drinks.pdb
+C:\Users\Bilal Aktas\Desktop\Fontys\Fontys Subjects\Semester2\PROP\Applications\Food Shop Drinks\Food Shop Drinks\bin\Debug\Food Shop Drinks.exe.config
+C:\Users\Bilal Aktas\Desktop\Fontys\Fontys Subjects\Semester2\PROP\Applications\Food Shop Drinks\Food Shop Drinks\bin\Debug\Food Shop Drinks.exe
+C:\Users\Bilal Aktas\Desktop\Fontys\Fontys Subjects\Semester2\PROP\Applications\Food Shop Drinks\Food Shop Drinks\bin\Debug\Food Shop Drinks.pdb
+C:\Users\Bilal Aktas\Desktop\Fontys\Fontys Subjects\Semester2\PROP\Applications\Food Shop Drinks\Food Shop Drinks\obj\Debug\Food Shop Drinks.csprojAssemblyReference.cache
+C:\Users\Bilal Aktas\Desktop\Fontys\Fontys Subjects\Semester2\PROP\Applications\Food Shop Drinks\Food Shop Drinks\obj\Debug\Food_Shop_Drinks.Form1.resources
+C:\Users\Bilal Aktas\Desktop\Fontys\Fontys Subjects\Semester2\PROP\Applications\Food Shop Drinks\Food Shop Drinks\obj\Debug\Food_Shop_Drinks.Properties.Resources.resources
+C:\Users\Bilal Aktas\Desktop\Fontys\Fontys Subjects\Semester2\PROP\Applications\Food Shop Drinks\Food Shop Drinks\obj\Debug\Food Shop Drinks.csproj.GenerateResource.cache
+C:\Users\Bilal Aktas\Desktop\Fontys\Fontys Subjects\Semester2\PROP\Applications\Food Shop Drinks\Food Shop Drinks\obj\Debug\Food Shop Drinks.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Aktas\Desktop\Fontys\Fontys Subjects\Semester2\PROP\Applications\Food Shop Drinks\Food Shop Drinks\obj\Debug\Food Shop Drinks.exe
+C:\Users\Bilal Aktas\Desktop\Fontys\Fontys Subjects\Semester2\PROP\Applications\Food Shop Drinks\Food Shop Drinks\obj\Debug\Food Shop Drinks.pdb

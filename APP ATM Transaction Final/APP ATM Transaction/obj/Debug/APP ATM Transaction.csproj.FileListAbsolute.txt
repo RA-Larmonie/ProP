@@ -1,0 +1,36 @@
+C:\Users\mateu\Desktop\prop\GUI\APP ATM Transaction\APP ATM Transaction\obj\Debug\APP ATM Transaction.csprojAssemblyReference.cache
+C:\Users\mateu\Desktop\prop\GUI\APP ATM Transaction\APP ATM Transaction\obj\Debug\APP_ATM_Transaction.Form1.resources
+C:\Users\mateu\Desktop\prop\GUI\APP ATM Transaction\APP ATM Transaction\obj\Debug\APP_ATM_Transaction.Properties.Resources.resources
+C:\Users\mateu\Desktop\prop\GUI\APP ATM Transaction\APP ATM Transaction\obj\Debug\APP ATM Transaction.csproj.GenerateResource.cache
+C:\Users\mateu\Desktop\prop\GUI\APP ATM Transaction\APP ATM Transaction\obj\Debug\APP ATM Transaction.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Desktop\prop\GUI\APP ATM Transaction\APP ATM Transaction\bin\Debug\APP ATM Transaction.exe.config
+C:\Users\mateu\Desktop\prop\GUI\APP ATM Transaction\APP ATM Transaction\bin\Debug\APP ATM Transaction.exe
+C:\Users\mateu\Desktop\prop\GUI\APP ATM Transaction\APP ATM Transaction\bin\Debug\APP ATM Transaction.pdb
+C:\Users\mateu\Desktop\prop\GUI\APP ATM Transaction\APP ATM Transaction\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\mateu\Desktop\prop\GUI\APP ATM Transaction\APP ATM Transaction\bin\Debug\Google.Protobuf.dll
+C:\Users\mateu\Desktop\prop\GUI\APP ATM Transaction\APP ATM Transaction\bin\Debug\MySql.Data.dll
+C:\Users\mateu\Desktop\prop\GUI\APP ATM Transaction\APP ATM Transaction\bin\Debug\Renci.SshNet.dll
+C:\Users\mateu\Desktop\prop\GUI\APP ATM Transaction\APP ATM Transaction\bin\Debug\Google.Protobuf.xml
+C:\Users\mateu\Desktop\prop\GUI\APP ATM Transaction\APP ATM Transaction\bin\Debug\MySql.Data.xml
+C:\Users\mateu\Desktop\prop\GUI\APP ATM Transaction\APP ATM Transaction\bin\Debug\Renci.SshNet.xml
+C:\Users\mateu\Desktop\prop\GUI\APP ATM Transaction\APP ATM Transaction\obj\Debug\APP ATM Transaction.csproj.CopyComplete
+C:\Users\mateu\Desktop\prop\GUI\APP ATM Transaction\APP ATM Transaction\obj\Debug\APP ATM Transaction.exe
+C:\Users\mateu\Desktop\prop\GUI\APP ATM Transaction\APP ATM Transaction\obj\Debug\APP ATM Transaction.pdb
+C:\Users\mateu\Desktop\prop\GUI\APP ATM Transaction - Copy\APP ATM Transaction\obj\Debug\APP ATM Transaction.csprojAssemblyReference.cache
+C:\Users\mateu\Desktop\prop\GUI\APP ATM Transaction - Copy\APP ATM Transaction\obj\Debug\APP_ATM_Transaction.Form1.resources
+C:\Users\mateu\Desktop\prop\GUI\APP ATM Transaction - Copy\APP ATM Transaction\obj\Debug\APP_ATM_Transaction.Properties.Resources.resources
+C:\Users\mateu\Desktop\prop\GUI\APP ATM Transaction - Copy\APP ATM Transaction\obj\Debug\APP ATM Transaction.csproj.GenerateResource.cache
+C:\Users\mateu\Desktop\prop\GUI\APP ATM Transaction - Copy\APP ATM Transaction\obj\Debug\APP ATM Transaction.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Desktop\prop\GUI\APP ATM Transaction - Copy\APP ATM Transaction\obj\Debug\APP ATM Transaction.exe
+C:\Users\mateu\Desktop\prop\GUI\APP ATM Transaction - Copy\APP ATM Transaction\obj\Debug\APP ATM Transaction.pdb
+C:\Users\mateu\Desktop\prop\GUI\APP ATM Transaction - Copy\APP ATM Transaction\bin\Debug\APP ATM Transaction.exe.config
+C:\Users\mateu\Desktop\prop\GUI\APP ATM Transaction - Copy\APP ATM Transaction\bin\Debug\APP ATM Transaction.exe
+C:\Users\mateu\Desktop\prop\GUI\APP ATM Transaction - Copy\APP ATM Transaction\bin\Debug\APP ATM Transaction.pdb
+C:\Users\mateu\Desktop\prop\GUI\APP ATM Transaction - Copy\APP ATM Transaction\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\mateu\Desktop\prop\GUI\APP ATM Transaction - Copy\APP ATM Transaction\bin\Debug\Google.Protobuf.dll
+C:\Users\mateu\Desktop\prop\GUI\APP ATM Transaction - Copy\APP ATM Transaction\bin\Debug\MySql.Data.dll
+C:\Users\mateu\Desktop\prop\GUI\APP ATM Transaction - Copy\APP ATM Transaction\bin\Debug\Renci.SshNet.dll
+C:\Users\mateu\Desktop\prop\GUI\APP ATM Transaction - Copy\APP ATM Transaction\bin\Debug\Google.Protobuf.xml
+C:\Users\mateu\Desktop\prop\GUI\APP ATM Transaction - Copy\APP ATM Transaction\bin\Debug\MySql.Data.xml
+C:\Users\mateu\Desktop\prop\GUI\APP ATM Transaction - Copy\APP ATM Transaction\bin\Debug\Renci.SshNet.xml
+C:\Users\mateu\Desktop\prop\GUI\APP ATM Transaction - Copy\APP ATM Transaction\obj\Debug\APP ATM Transaction.csproj.CopyComplete

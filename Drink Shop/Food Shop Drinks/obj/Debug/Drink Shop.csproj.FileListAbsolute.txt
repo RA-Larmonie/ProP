@@ -1,0 +1,38 @@
+C:\Users\ralar\Desktop\test1\mypart\Drink Shop\Food Shop Drinks\obj\Debug\Drink Shop.csprojAssemblyReference.cache
+C:\Users\ralar\Desktop\test1\mypart\Drink Shop\Food Shop Drinks\obj\Debug\Food Shop Drinks.exe
+C:\Users\ralar\Desktop\test1\mypart\Drink Shop\Food Shop Drinks\obj\Debug\Food Shop Drinks.pdb
+C:\Users\ralar\Desktop\test1\mypart\Drink Shop\Food Shop Drinks\bin\Debug\Food Shop Drinks.exe.config
+C:\Users\ralar\Desktop\test1\mypart\Drink Shop\Food Shop Drinks\bin\Debug\Food Shop Drinks.exe
+C:\Users\ralar\Desktop\test1\mypart\Drink Shop\Food Shop Drinks\bin\Debug\Food Shop Drinks.pdb
+C:\Users\ralar\Desktop\test1\mypart\Drink Shop\Food Shop Drinks\bin\Debug\MySql.Data.dll
+C:\Users\ralar\Desktop\test1\mypart\Drink Shop\Food Shop Drinks\bin\Debug\Phidget22.NET.dll
+C:\Users\ralar\Desktop\test1\mypart\Drink Shop\Food Shop Drinks\bin\Debug\Google.Protobuf.dll
+C:\Users\ralar\Desktop\test1\mypart\Drink Shop\Food Shop Drinks\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ralar\Desktop\test1\mypart\Drink Shop\Food Shop Drinks\bin\Debug\Renci.SshNet.dll
+C:\Users\ralar\Desktop\test1\mypart\Drink Shop\Food Shop Drinks\bin\Debug\MySql.Data.xml
+C:\Users\ralar\Desktop\test1\mypart\Drink Shop\Food Shop Drinks\bin\Debug\Phidget22.NET.pdb
+C:\Users\ralar\Desktop\test1\mypart\Drink Shop\Food Shop Drinks\bin\Debug\Phidget22.NET.xml
+C:\Users\ralar\Desktop\test1\mypart\Drink Shop\Food Shop Drinks\obj\Debug\Food_Shop_Drinks.Form1.resources
+C:\Users\ralar\Desktop\test1\mypart\Drink Shop\Food Shop Drinks\obj\Debug\Food_Shop_Drinks.Properties.Resources.resources
+C:\Users\ralar\Desktop\test1\mypart\Drink Shop\Food Shop Drinks\obj\Debug\Drink Shop.csproj.GenerateResource.cache
+C:\Users\ralar\Desktop\test1\mypart\Drink Shop\Food Shop Drinks\obj\Debug\Drink Shop.csproj.CoreCompileInputs.cache
+C:\Users\ralar\Desktop\test1\mypart\Drink Shop\Food Shop Drinks\obj\Debug\Drink Shop.csproj.CopyComplete
+C:\Users\ralar\Desktop\FINAL TEST\Drink Shop\Food Shop Drinks\bin\Debug\Food Shop Drinks.exe.config
+C:\Users\ralar\Desktop\FINAL TEST\Drink Shop\Food Shop Drinks\bin\Debug\Food Shop Drinks.exe
+C:\Users\ralar\Desktop\FINAL TEST\Drink Shop\Food Shop Drinks\bin\Debug\Food Shop Drinks.pdb
+C:\Users\ralar\Desktop\FINAL TEST\Drink Shop\Food Shop Drinks\bin\Debug\MySql.Data.dll
+C:\Users\ralar\Desktop\FINAL TEST\Drink Shop\Food Shop Drinks\bin\Debug\Phidget22.NET.dll
+C:\Users\ralar\Desktop\FINAL TEST\Drink Shop\Food Shop Drinks\bin\Debug\Google.Protobuf.dll
+C:\Users\ralar\Desktop\FINAL TEST\Drink Shop\Food Shop Drinks\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ralar\Desktop\FINAL TEST\Drink Shop\Food Shop Drinks\bin\Debug\Renci.SshNet.dll
+C:\Users\ralar\Desktop\FINAL TEST\Drink Shop\Food Shop Drinks\bin\Debug\MySql.Data.xml
+C:\Users\ralar\Desktop\FINAL TEST\Drink Shop\Food Shop Drinks\bin\Debug\Phidget22.NET.pdb
+C:\Users\ralar\Desktop\FINAL TEST\Drink Shop\Food Shop Drinks\bin\Debug\Phidget22.NET.xml
+C:\Users\ralar\Desktop\FINAL TEST\Drink Shop\Food Shop Drinks\obj\Debug\Drink Shop.csprojAssemblyReference.cache
+C:\Users\ralar\Desktop\FINAL TEST\Drink Shop\Food Shop Drinks\obj\Debug\Food_Shop_Drinks.Form1.resources
+C:\Users\ralar\Desktop\FINAL TEST\Drink Shop\Food Shop Drinks\obj\Debug\Food_Shop_Drinks.Properties.Resources.resources
+C:\Users\ralar\Desktop\FINAL TEST\Drink Shop\Food Shop Drinks\obj\Debug\Drink Shop.csproj.GenerateResource.cache
+C:\Users\ralar\Desktop\FINAL TEST\Drink Shop\Food Shop Drinks\obj\Debug\Drink Shop.csproj.CoreCompileInputs.cache
+C:\Users\ralar\Desktop\FINAL TEST\Drink Shop\Food Shop Drinks\obj\Debug\Drink Shop.csproj.CopyComplete
+C:\Users\ralar\Desktop\FINAL TEST\Drink Shop\Food Shop Drinks\obj\Debug\Food Shop Drinks.exe
+C:\Users\ralar\Desktop\FINAL TEST\Drink Shop\Food Shop Drinks\obj\Debug\Food Shop Drinks.pdb
