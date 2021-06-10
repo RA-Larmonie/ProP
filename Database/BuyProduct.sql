@@ -1,0 +1,10 @@
+CREATE TABLE BuyProduct(
+  TransactionID INT NOT NULL,
+  ProductID INT NOT NULL,
+  UserID INT NOT NULL,
+  Amount INT NOT NULL,
+  EventStatusID INT NOT NULL,
+  CONSTRAINT TransactionID PRIMARY KEY(TransactionID),
+  CONSTRAINT ProductID FOREIGN KEY(ProductID) REFERENCES Products(ProductID),
+  CONSTRAINT UserID FOREIGN KEY(UserID) REFERENCES Visitor(UserID)
+);

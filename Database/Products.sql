@@ -1,0 +1,12 @@
+CREATE TABLE Products(
+  ProductID INT NOT NULL,
+  ProductName VARCHAR(200) NOT NULL,
+  Price DECIMAL(13,4) NOT NULL,
+  ProductType VARCHAR(200) NOT NULL,
+  IsAlcohol BOOLEAN NOT NULL,
+  BARCODE BIGINT NOT NULL,
+    
+  CONSTRAINT ProductID PRIMARY KEY(ProductID) 
+
+
+);
